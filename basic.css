@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  font-family: '-윤고딕330', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 500;
 }
 a {
   color: black;
